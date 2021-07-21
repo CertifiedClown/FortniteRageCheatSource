@@ -1,0 +1,1 @@
+dont change ur dll name just drop it here and run inject.bat in lobby remember discord overlay need be on just in case u did change ur dll name need be test.dll!
