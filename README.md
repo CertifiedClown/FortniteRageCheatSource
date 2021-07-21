@@ -20,6 +20,9 @@
 
 ![alt text](https://media.discordapp.net/attachments/865723311497281617/867133384425865266/Fortnite_20_07_2021_20_50_27.png?width=1214&height=683)
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=yellow)
+
+
 
 
 
