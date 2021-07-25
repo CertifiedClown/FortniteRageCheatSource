@@ -11,7 +11,7 @@
 
 # Discord Server! 🔥
 
-- [Join](https://discord.gg/J88rnbbU88)
+- [Join](https://discord.gg/uWEgh23yqp)
 
 # Download Cheat Ready to use here! 🔥
 
