@@ -15,11 +15,11 @@
 
 # Discord Server! 🔥
 
-- [Join](https://discord.gg/uWEgh23yqp)
+- [Join](https://discord.gg/wr3v9WzWdN)
 
 # Download Cheat Ready to use here! 🔥
 
-- [Download Ready To Use](https://direct-link.net/148261/ragedild2)
+- [Download Ready To Use](https://link-to.net/148261/DildRageUpdated)
 
 
 ![alt text](https://media.discordapp.net/attachments/865723311497281617/867133384425865266/Fortnite_20_07_2021_20_50_27.png?width=1214&height=683)
