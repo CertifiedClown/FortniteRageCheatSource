@@ -1,6 +1,8 @@
 # FORTNITE RAGE CHEAT 
  
-### LATEST UPDATE 08-16-2021 🗓
+### LATEST UPDATE 08-19-2021 🗓
+
+# Alredy Updated for 17.40 I will update this source every update!
 
 # Info 📝
 <ul><li>This original source was made by @Android1337 edited and updated to the latest fortnite patch by me (VITAL#1310)</li><li>
