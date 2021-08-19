@@ -21,8 +21,7 @@
 
 - [Download Ready To Use](https://link-to.net/148261/DildRageUpdated)
 
-Update Show Case https://streamable.com/xmx49y
-
+<iframe src="https://streamable.com/e/xmx49y?autoplay=1&nocontrols=1" width="560" height="315" frameborder="0" allowfullscreen allow="autoplay"></iframe>
 ![alt text](https://media.discordapp.net/attachments/865723311497281617/867133384425865266/Fortnite_20_07_2021_20_50_27.png?width=1214&height=683)
 
 ![](https://komarev.com/ghpvc/?username=ItsVITAL&color=yellow)
