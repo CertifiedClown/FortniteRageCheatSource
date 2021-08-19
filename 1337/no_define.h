@@ -41,37 +41,37 @@ namespace signatures {
 
 	const char* DiscordPresentScene_sig = "56 57 53 48 83 EC 30 44 89 C6"; //Discord PresentScene
 }
-
+	
 namespace offsets {
 	uintptr_t OwningGameInstance = 0x180;
 	uintptr_t LocalPlayers = 0x38;
-	uintptr_t PlayerController = 0x118;
-	uintptr_t PlayerCameraManager = 0x27A0;
+	uintptr_t PlayerController = 0x30;
+	uintptr_t PlayerCameraManager = 0x2B8;
 	uintptr_t AcknowledgedPawn = 0x2A0;
 
-	uintptr_t Levels = 0x280;
-	uintptr_t PersistentLevel = 0xF8;
+	uintptr_t Levels = 0x138;
+	uintptr_t PersistentLevel = 0x30;
 	uintptr_t AActors = 0x98;
-	uintptr_t ActorCount = 0xC0;
+	uintptr_t ActorCount = 0xA0;
 
 	uintptr_t ComponentVelocity = 0x140;
 	uintptr_t RootComponent = 0x130;
-	uintptr_t FireStartLoc = 0x880;
-	uintptr_t RelativeLocation = 0x30;
-	uintptr_t RelativeRotation = 0x3C;
-	uintptr_t CurrentWeapon = 0x640;
-	uintptr_t PlayerState = 0x294;
-	uintptr_t Mesh = 0x220;
-	uintptr_t TeamIndex = 0x44D;
+	uintptr_t FireStartLoc = 0x878;
+	uintptr_t RelativeLocation = 0x11c;
+	uintptr_t RelativeRotation = 0x128;
+	uintptr_t CurrentWeapon = 0x410;
+	uintptr_t PlayerState = 0x240;
+	uintptr_t Mesh = 0x280;
+	uintptr_t TeamIndex = 0xED0;
 
 
 	//Exploits
 	uintptr_t bDisableEquipAnimation = 0x2B4;
 	uintptr_t bADSWhileNotOnGround = 0x3B74;
 	uintptr_t ReviveFromDBNOTime = 0x3420;
-	uintptr_t CustomTimeDilation = 0x28;
-	uintptr_t LastFireTime = 0x9C0;
-	uintptr_t LastFireTimeVerified = 0x9C0;
+	uintptr_t CustomTimeDilation = 0x538;
+	uintptr_t LastFireTime = 0x9BC;
+	uintptr_t LastFireTimeVerified = 0x9C0;//0x9C0;
 
 }
 
@@ -98,7 +98,7 @@ namespace Settings
 
 	bool ESP = false;
 	static int ESPType_Value = 1;
-	bool ESP_Skeleton = true;
+	bool ESP_Skeleton = false;
 	bool ESP_Lines = false;
 	bool ESP_PlayersNames = false;
 	bool ESP_StreamSnipe = false;

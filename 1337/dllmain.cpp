@@ -340,11 +340,11 @@ HRESULT present_hooked(IDXGISwapChain* pSwapChain, UINT SyncInterval, UINT Flags
 				no_menu::checkbox(_("Crosshair"), Settings::Crosshair);
 				no_menu::separator(10, false);
 				if (no_menu::button(_("Webiste"), no_menu::vec2({ 113, 32 }))) {
-					system(_("start link here"));
+					system(_("http://vitalche4ts.online/"));
 				}             // ur web link here
 				no_menu::separator(10, false);
 				if (no_menu::button(_("Discord Server"), no_menu::vec2({ 113, 32 }))) {
-					system(_("start link here"));
+					system(_("https://discord.gg/wr3v9WzWdN"));
 					// ur discord server link here
 				}
 			}
@@ -366,7 +366,7 @@ HRESULT present_hooked(IDXGISwapChain* pSwapChain, UINT SyncInterval, UINT Flags
 	if (pFontWrapper)
 	{
 		                                        //here add whatever u want
-		pFontWrapper->DrawString(pContext, _(L"Latest Update 08-20-2021"), 255, 255, 255, 0xff0000ff, FW1_RESTORESTATE);
+		pFontWrapper->DrawString(pContext, _(L""), 255, 255, 255, 0xff0000ff, FW1_RESTORESTATE);
 	}
 
 	return present_original(pSwapChain, SyncInterval, Flags);
@@ -428,7 +428,7 @@ void Init()
 	BoneMatrix = RVA(BoneMatrix, 5);
 
 	if (!No_Discord::module) {
-		MessageBoxA(NULL, "Make sure to have your discord overlay on!", "Error", MB_ICONERROR);
+		MessageBoxA(NULL, "Your Discord Overlay is Off!", "Error", MB_ICONERROR);
 		exit(0);
 	}
 
