@@ -5,7 +5,7 @@
 # Alredy Updated for 17.40 I will update this source every update!
 
 # Info 📝
-<ul><li>This original source was made by @Android1337 edited and updated to the latest fortnite patch by me (VITAL#1310)</li><li>
+<ul><li>This original source was made by @Android1337 edited and updated to the latest fortnite patch by me (1310's#1310)</li><li>
  
 # Features 💿
 <ul><li>Aimbot</li><li>ESP</li><li>Exploits</li><li>Misc</li><li>Aimbot Fov Circle</li><li>Aimbot Smooth</li><li>Aimbot Bone</li><li>Aimbot Prediction</li>
