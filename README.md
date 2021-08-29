@@ -1,8 +1,8 @@
 # FORTNITE RAGE CHEAT 
  
-### LATEST UPDATE 08-19-2021 🗓
+### LATEST UPDATE 08-29-2021 🗓
 
-# Alredy Updated for 17.40 I will update this source every update!
+# Alredy Updated for 17.40 (17269705) I will update this source every update!
 
 # Info 📝
 <ul><li>This original source was made by @Android1337 edited and updated to the latest fortnite patch by me (1310's#1310)</li><li>
@@ -17,11 +17,9 @@
 
 # Discord Server! 🔥
 
-- [Join](https://discord.gg/wr3v9WzWdN)
+- [Join](https://discord.gg/mS9Jzg8SRT)
 
 # Download Cheat Ready to use here! 🔥
-
-- [Download Ready To Use](https://link-to.net/148261/DildRageUpdated)
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://streamable.com/xmx49y)
 
