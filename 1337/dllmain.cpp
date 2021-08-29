@@ -225,7 +225,7 @@ HRESULT present_hooked(IDXGISwapChain* pSwapChain, UINT SyncInterval, UINT Flags
 	{
 		no_menu::window_input(_("UnrealWindow"), _("Fortnite  "));
 		                             // ur  menu name
-		if (no_menu::begin_window(_("1310's PASTE"), no_menu::vec2({ 545, 580 }), VK_INSERT, no_menu::no_menu_window_flags_none))
+		if (no_menu::begin_window(_("Dildo Rage | 1310's#1310"), no_menu::vec2({ 545, 580 }), VK_INSERT, no_menu::no_menu_window_flags_none))
 		{
 
 			if (tab == 1) { tab1 = true; tab2 = false; tab3 = false; tab4 = false; }
@@ -340,11 +340,11 @@ HRESULT present_hooked(IDXGISwapChain* pSwapChain, UINT SyncInterval, UINT Flags
 				no_menu::checkbox(_("Crosshair"), Settings::Crosshair);
 				no_menu::separator(10, false);
 				if (no_menu::button(_("Webiste"), no_menu::vec2({ 113, 32 }))) {
-					system(_("http://vitalche4ts.online/"));
+					system(_("https://vitalcheats.site/"));
 				}             // ur web link here
 				no_menu::separator(10, false);
-				if (no_menu::button(_("Discord Server"), no_menu::vec2({ 113, 32 }))) {
-					system(_("https://discord.gg/wr3v9WzWdN"));
+				if (no_menu::button(_("New Server"), no_menu::vec2({ 113, 32 }))) {
+					system(_("https://discord.gg/mS9Jzg8SRT"));
 					// ur discord server link here
 				}
 			}
