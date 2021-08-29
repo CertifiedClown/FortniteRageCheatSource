@@ -327,8 +327,8 @@ bool InitializeESP(uintptr_t CurrentPawn) {
 
 		if (IsVisible) {
 			BoxesColor = { 255, 0, 0, 0 }; //Visible Color
-			SkeletonColor = { 0, 0, 0, 0 }; //Visible Color
-			LineColor = { 26, 255, 0, 114 }; //Visible Color
+			SkeletonColor = { 255, 222, 0, 52 }; //Visible Color
+			LineColor = { 0, 0, 0, 52 }; //Visible Color
 		}
 		else {
 			BoxesColor = { 230, 255, 255, 255 }; //Not Visible Color
