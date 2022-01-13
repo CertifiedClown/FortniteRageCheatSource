@@ -2,10 +2,10 @@
  
 ### LATEST UPDATE 08-29-2021 🗓
 
-# Alredy Updated for 17.40 (17269705) I will update this source every update!
+# Last update 17.40 (17269705) This source is outdated you will need to update it ur self!
 
 # Info 📝
-<ul><li>This original source was made by @Android1337 edited and updated to the latest fortnite patch by me (1310's#1310) > New Discord > brave#6912 </li><li>
+<ul><li>This original source was made by @Android1337 edited and updated to the latest fortnite patch by me </li><li>
  
  Open/Close Menu key = Insert
 
@@ -16,18 +16,13 @@
 
 # Download Cheat Ready to use here! 🔥
 
->>> https://github.com/1310s/FortniteRageCheatSource/releases/tag/V2
-
-
-# Discord Server! 🔥
-
-- [Join](https://discord.gg/mS9Jzg8SRT)
+>>> https://github.com/SantaaVibez/FortniteRageCheatSource/releases/tag/V2
 
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://streamable.com/xmx49y)
 
 
-![](https://komarev.com/ghpvc/?username=ItsVITAL&color=yellow)
+![](https://komarev.com/ghpvc/?username=SantaaVibez&color=yellow)
 
 
 
