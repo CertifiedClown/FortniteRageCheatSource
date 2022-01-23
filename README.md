@@ -1,8 +1,8 @@
 # FORTNITE RAGE CHEAT 
  
-### LATEST UPDATE 08-29-2021 🗓
+### LATEST UPDATE 01-23-2022 🗓
 
-# Last update 17.40 (17269705) This source is outdated you will need to update it ur self!
+# Offests & Sigs Already Updated! Download it and Release it. also some exploits like skip animation may not work.
 
 # Info 📝
 <ul><li>This original source was made by @Android1337 edited and updated to the latest fortnite patch by me </li><li>
