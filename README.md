@@ -1,11 +1,7 @@
 # FORTNITE RAGE CHEAT 
- 
-### LATEST UPDATE 01-23-2022 🗓
-
-# offsets & Sigs Outdated!
 
 # Info 📝
-<ul><li>This original source was made by @Android1337 edited and updated to the latest fortnite patch by me </li><li>
+<ul><li>This original source was made by @Android1337</li><li>
  
  Open/Close Menu key = Insert
 
